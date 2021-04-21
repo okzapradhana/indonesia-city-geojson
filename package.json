@@ -1,0 +1,28 @@
+{
+  "name": "indonesia-city-geojson",
+  "version": "1.0.0",
+  "description": "Geojson of Indonesia's cities",
+  "main": "fetcher.js",
+  "dependencies": {
+    "simplify-geojson": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okzapradhana/indonesia-city-geojson.git"
+  },
+  "keywords": [
+    "geojson",
+    "javascript",
+    "indonesia"
+  ],
+  "author": "Okza Pradhana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okzapradhana/indonesia-city-geojson/issues"
+  },
+  "homepage": "https://github.com/okzapradhana/indonesia-city-geojson#readme"
+}
